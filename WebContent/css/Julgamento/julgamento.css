@@ -1,0 +1,130 @@
+@CHARSET "ISO-8859-1";
+
+table#camisetabranca{
+	background: #A7B0B7;
+	height: 100%;
+}
+
+table#camisetabranca table#notacamisetabranca{	
+	position: relative;
+}
+
+table#camisetabranca table#notacamisetabranca .fundocamisa{	
+	background: #FFFFFF !important;
+	color: #234156;
+	padding: 5px 5px 5px 5px;
+	width: 225px;
+	position: relative;
+}
+
+table#camisetabranca table#notacamisetabranca .centro{	
+	text-align:center;
+	margin-top: 5px;
+	margin-right: 15px;
+	font:15px arial,helvetica,sans-serif;
+	font-weight: bold;
+}
+
+table#camisetaverde{
+	background: #799782;
+	height: 100%;
+}
+
+table#camisetaverde table#notacamisetaverde{	
+	position: relative;
+}
+
+table#camisetaverde table#notacamisetaverde .fundocamisa{	
+	background: #156E07 !important;
+	color: #FFFFFF;
+	padding: 5px 5px 5px 5px;
+	width: 225px;
+	position: relative;
+}
+
+table#camisetaverde table#notacamisetaverde .centro{	
+	text-align:center;
+	margin-top: 5px;
+	margin-right: 25px;
+	font:15px arial,helvetica,sans-serif;
+	font-weight: bold;
+}
+
+table#camisetapreta{
+	background: #3D4348;
+	height: 100%;
+}
+
+table#camisetapreta table#notacamisetapreta{	
+	position: relative;
+}
+
+table#camisetapreta table#notacamisetapreta .fundocamisa{	
+	background: #000000 !important;
+	color: #FFFFFF;
+	padding: 5px 5px 5px 5px;
+	width: 225px;
+	position: relative;
+}
+
+table#camisetapreta table#notacamisetapreta .centro{	
+	text-align:center;
+	margin-top: 5px;
+	margin-right: 25px;
+	font:15px arial,helvetica,sans-serif;
+	font-weight: bold;
+}
+
+table#camisetavermelha{
+	background: #8B5A59;
+	height: 100%;
+}
+
+table#camisetavermelha table#notacamisetavermelha{	
+	position: relative;
+}
+
+table#camisetavermelha table#notacamisetavermelha .fundocamisa{	
+	background: #B51605 !important;
+	color: #FFFFFF;
+	padding: 5px 5px 5px 5px;
+	width: 225px;
+	position: relative;
+}
+
+table#camisetavermelha table#notacamisetavermelha .centro{	
+	text-align:center;
+	margin-top: 5px;
+	margin-right: 5px;
+	font:15px arial,helvetica,sans-serif;
+	font-weight: bold;
+}
+
+input#submit{
+	height:30px;
+	margin-top: 25px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	background: #FFFFFF !important;
+	font: 14px Verdana, sans-serif;
+	color: #234156;
+	border-top: 2px solid #404040;
+	border-left: 2px solid #404040;
+	padding-left:10px;
+	font-weight: bold;
+}
+
+input#limpar{
+	height:30px;
+	margin-top: 25px;
+	margin-bottom: 5px;
+	background: #FFFFFF !important;
+	font: 14px Verdana, sans-serif;
+	color: #234156;
+	border-top: 2px solid #404040;
+	border-left: 2px solid #404040;
+	padding-left:10px;
+	font-weight: bold;
+}
+
+

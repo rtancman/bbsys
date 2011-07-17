@@ -1,0 +1,76 @@
+@CHARSET "ISO-8859-1";
+table{
+	margin-top:10px;
+	width: 100%;
+}
+
+td {
+	padding:10px;
+}
+
+.meiaPagina{
+	width: 50%;
+}
+
+div.relatorio{
+	margin: 20px 20px 20px 20px;
+}
+
+tr#relatorioMenu td{
+	background-color:#183A4F;
+	border-top:2px solid #FFFFFF;
+	border-bottom:2px solid #FFFFFF;
+}
+
+tr#relatorioDados td{
+	border-bottom:1px solid #FFFFFF;
+}
+
+.gerenciardados {
+	border-bottom:1px solid #FFFFFF;
+}
+
+tr#relatorioDados:hover{
+	background:none repeat scroll 0 0 #18444F;
+	font-weight:bold;
+}
+
+div.menuRelatorio{
+	font-size: 18px;
+}
+
+table#relatorioNavegacaoTopo{
+	width: 900px;
+	margin-top:10px;
+	margin-bottom:5px;
+	margin-left: -450px;
+	left:50%;
+	position: relative;
+}
+
+table#relatorioNavegacaoTopo select{
+	width: 230px;
+	height: 22px;
+}
+
+table#relatorioNavegacaoTopo .tx{
+	margin-right: 5px;
+}
+
+table#relatorioNavegacaoInferior{
+	width: 900px;
+	margin-top:10px;
+	margin-bottom:5px;
+	margin-left: -450px;
+	left:50%;
+	position: relative;
+}
+
+table#relatorioNavegacaoInferior select{
+	width: 230px;
+	height: 22px;
+}
+
+table#relatorioNavegacaoInferior .tx{
+	margin-right: 5px;
+}

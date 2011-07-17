@@ -1,0 +1,103 @@
+@CHARSET "ISO-8859-1";
+div#meioHomeLogin{
+	top:180px;
+	position: relative;
+	width: 100%;
+	height:auto;
+}
+
+div#formLoginContent{
+	 color:#FFFFFF;
+	 margin-top:80px;
+	 position: relative;
+	 left: 50%; 
+	 width: 505px; 
+	 margin-left: -353px;
+	 height:auto;
+	 padding:10px 0 0 10px; 
+}
+
+div#imgLogo{
+	 margin-top:-50px;
+	 position: relative;
+	 left: 50%; 
+	 width: 516px; 
+	 margin-left:-258px;
+	 top: 110px;
+	 z-index: 100;
+}
+
+div.fundo{
+	background: #012A43;
+	opacity: 0.75;
+	filter:alpha(opacity=75);
+	width: 100%;
+	padding:10px 10px 10px 10px;
+}
+
+
+img#logo {
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin-left:50%;
+	top:50%;
+	margin-top:-235px;
+}
+
+img#logoText {
+	left:50%;
+	margin-left:-333px;
+	margin-top:-105px;
+	position:absolute;
+	top:50%;
+}
+
+a{
+	color:#FFFFFF;
+}
+
+div#camposForm{
+	height: auto;
+	margin: 0 auto;
+	margin-top:30px;
+	padding:10px 0 10px 0;
+}
+
+li.formli{
+	position: relative;
+	list-style-type:none;
+	left: 0;
+	top: 0;
+	margin-left:-40px;
+	margin-top:-20px;
+	padding:0em 0em 1.3em;
+	font-size: 15pt;
+}
+li.formlinput{
+	position: relative;
+	list-style-type:none;
+	left: 0;
+	top: 0;
+	margin-left:40px;
+	margin-top:-55px;
+	padding:0em 0em 1.3em;
+	font-size: 15pt;
+}
+input.txform{
+	position: relative;
+	list-style-type:none;
+	padding:0em 0em 1.3em;
+	font-size: 8pt;
+	width: 250px;
+	height:15px;
+}
+input:focus{
+background-color: lightblue;
+}
+
+div#rodape {
+	margin-top:20px;
+	position:fixed !important;
+	bottom:0 !important;
+}

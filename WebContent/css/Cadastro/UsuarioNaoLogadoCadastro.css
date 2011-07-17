@@ -1,0 +1,48 @@
+@CHARSET "ISO-8859-1";
+
+ul{
+	list-style-type:none;
+	padding:0;
+}
+div.formBoxe{
+	width:800px;
+	height:auto;
+	margin: 20px 0 10px 0;
+}
+div.formBoxe2{
+	width:300px;
+	height:auto;
+	margin: 0 0 10px 0;
+}
+div.formBoxe3{
+	width:500px;
+	height:auto;
+	margin: 0 0 10px 0;
+}
+
+div.formBoxe4{
+	width:800px;
+	height:auto;
+	margin: 0 0 10px 0;
+}
+
+.clearfix{
+	display:block;
+}
+div.campo{
+	margin:0 0 1.95em;
+	position:relative;
+}
+
+.campoNome{	
+	height:20px;
+	width:500px;
+}
+.campoSexo{	
+display:block;
+font-size:12px;
+padding:4px 3px 3px 3px;
+}
+div.pais{
+	width:200px;
+}

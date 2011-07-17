@@ -1,0 +1,25 @@
+@CHARSET "ISO-8859-1";
+
+select#ddCampenatoID{
+	width: 230px;
+	height: 22px;
+}
+
+table#selecionaCampeonato{
+	font-size: 18px;
+	margin-top: 15px; 
+	margin-bottom: 10px;
+	position: relative;
+}
+
+table#selecionaAtleta select{
+	width: 230px;
+	height: 200px;
+}
+
+table#selecionaAtleta{
+	font-size: 18px;
+	margin-top: 5px; 
+	margin-bottom: 10px;
+	position: relative;
+}

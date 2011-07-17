@@ -1,0 +1,137 @@
+@CHARSET "ISO-8859-1";
+
+.title_horoscope  {
+border-bottom:10px solid #000000;
+opacity: none;
+filter:alpha(opacity=none);
+}
+
+.subtitle  {
+border-bottom:2px solid #FFFFFF;
+font-weight:lighter;
+margin-bottom:1px;
+position:relative;
+}
+
+.section_title {
+line-height:30px;
+padding-bottom:3px;
+padding-top:3px;
+}
+
+.select-regular {
+font-size:medium;
+width:300px;
+height:auto;
+margin-bottom:10px;
+margin-top:10px;
+}
+
+.select-pequeno {
+font-size:medium;
+width:100px;
+height:auto;
+margin-bottom:10px;
+margin-top:10px;
+}
+
+.nomargin {
+margin:0 !important;
+}
+
+h3 {
+font-size:2em;
+letter-spacing:-1px;
+margin-bottom:10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+color:#FFFFFF;
+font-weight:bold;
+text-transform:uppercase;
+}
+
+body {
+font:12px arial,helvetica,sans-serif;
+color:#FFFFFF;
+}
+
+label {
+cursor:pointer;
+font-size:12px;
+/*line-height:20px;*/
+}
+
+.fL {
+float:left !important;
+}
+
+.field {
+position:relative;
+width:120px;
+}
+
+div.Name {
+width:120px;
+}
+
+div.Sexo select {
+width:100% !important;
+}
+div.Sexo{
+width:205px;
+}
+
+div.ddMenu select {
+width:100% !important;
+}
+div.ddMenu{
+width:300px;
+}
+div.tipoUsuario select {
+width:100% !important;
+}
+div.tipoUsuario{
+width:120px;
+}
+div.pais select {
+width:100% !important;
+}
+div.pais{
+width:205px;
+margin-right: 20px;
+}
+div.estado select {
+width:100% !important;
+}
+div.estado{
+width:205px;
+}
+
+.tx{
+	width:200px;
+	margin-right: 20px;
+}
+
+.submit{
+	height:30px;
+	background: #FFFFFF !important;
+	font: 14px Verdana, sans-serif;
+	color: #234156;
+	border-top: 2px solid #404040;
+	border-left: 2px solid #404040;
+	padding-left:10px;
+	font-weight: bold;
+}
+
+.limpar{
+	height:30px;
+	background: #FFFFFF !important;
+	font: 14px Verdana, sans-serif;
+	color: #234156;
+	border-top: 2px solid #404040;
+	border-left: 2px solid #404040;
+	padding-left:10px;
+	font-weight: bold;
+}
+
